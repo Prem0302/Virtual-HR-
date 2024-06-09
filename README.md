@@ -14,3 +14,5 @@ Data-Driven Insights: Provide actionable insights and analytics to optimize the 
 
 Access the web interface at :http://20.20.20.3:5000
 
+# admin page 
+![Virtual-HR](https://github.com/Prem0302/Virtual-HR-/assets/121685154/8bb68b4f-525b-4008-8b94-03c0fe9cbfb9)
