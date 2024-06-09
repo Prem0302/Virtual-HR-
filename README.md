@@ -16,3 +16,7 @@ Access the web interface at :http://20.20.20.3:5000
 
 # admin page 
 ![Virtual-HR](https://github.com/Prem0302/Virtual-HR-/assets/121685154/8bb68b4f-525b-4008-8b94-03c0fe9cbfb9)
+
+# Candidate Page 
+![Virtual-HR (1)](https://github.com/Prem0302/Virtual-HR-/assets/121685154/cb365723-257f-49c3-a39c-a1fce479c638)
+
